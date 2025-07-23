@@ -46,8 +46,6 @@ Sou Desenvolvedor Fullstack com sólida experiência em **Laravel**, **VueJS**, 
 
 📧 **Email:** joao@email.com  
 🔗 **LinkedIn:** [linkedin.com/in/joão-victor-da-silva-martins-50403118b](https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-martins-50403118b)  
-🌐 **GitHub:** [github.com/joao](https://github.com/joao)  
-🌍 **Portfólio:** [www.seusite.com](https://www.seusite.com)
 
 ---
 
